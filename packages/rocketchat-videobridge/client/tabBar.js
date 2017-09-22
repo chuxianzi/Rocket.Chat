@@ -4,7 +4,7 @@ Meteor.startup(function() {
 			RocketChat.TabBar.addButton({
 				groups: ['direct', 'group'],
 				id: 'video',
-				i18nTitle: 'Video Chat',
+				i18nTitle: 'Video_Chat',
 				icon: 'video',
 				iconColor: 'red',
 				template: 'videoFlexTab',
